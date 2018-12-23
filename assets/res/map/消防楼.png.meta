@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "3e144bdd-48ea-4781-8f08-04ad1a1119f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "消防楼": {
+      "ver": "1.0.3",
+      "uuid": "beabcaf9-ea41-4635-9d9b-62c33dc07a4f",
+      "rawTextureUuid": "3e144bdd-48ea-4781-8f08-04ad1a1119f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 289,
+      "height": 283,
+      "rawWidth": 290,
+      "rawHeight": 290,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

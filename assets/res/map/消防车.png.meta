@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "2a905ea3-bfe8-498a-a969-09022d7d22a4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "消防车": {
+      "ver": "1.0.3",
+      "uuid": "10197d9c-b9c0-4a47-9613-b3c778f10c61",
+      "rawTextureUuid": "2a905ea3-bfe8-498a-a969-09022d7d22a4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 66,
+      "height": 57,
+      "rawWidth": 68,
+      "rawHeight": 57,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

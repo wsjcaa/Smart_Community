@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "966accc6-307a-4eb9-a144-1dbb4d0f33d2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "我的房子": {
+      "ver": "1.0.3",
+      "uuid": "8899207c-5b20-4a59-a6cd-a6c161e49d0e",
+      "rawTextureUuid": "966accc6-307a-4eb9-a144-1dbb4d0f33d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 11,
+      "width": 326,
+      "height": 159,
+      "rawWidth": 330,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "3c3d45bc-12d3-46f9-9942-bbf1f5a61e2a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "足球场": {
+      "ver": "1.0.3",
+      "uuid": "0674ad83-645b-4243-add1-24958b7430f7",
+      "rawTextureUuid": "3c3d45bc-12d3-46f9-9942-bbf1f5a61e2a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 316,
+      "height": 185,
+      "rawWidth": 320,
+      "rawHeight": 185,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

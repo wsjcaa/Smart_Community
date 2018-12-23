@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "camera1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.45,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Camera": {
+        "zoomRatio": [
+          {
+            "frame": 0,
+            "value": 3
+          },
+          {
+            "frame": 0.45,
+            "value": 1
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -1119,
+            2472
+          ]
+        },
+        {
+          "frame": 0.45,
+          "value": [
+            -1209,
+            1432
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.4166666666666667,
+      "func": "cameraMoveEnd",
+      "params": []
+    }
+  ]
+}

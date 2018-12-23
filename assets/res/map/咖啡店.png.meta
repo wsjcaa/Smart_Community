@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "0c6536e8-b15b-4228-936e-7935a6328692",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "咖啡店": {
+      "ver": "1.0.3",
+      "uuid": "d2c8c382-c223-4f6e-9f86-4f99a2e9d71a",
+      "rawTextureUuid": "0c6536e8-b15b-4228-936e-7935a6328692",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 339,
+      "height": 228,
+      "rawWidth": 345,
+      "rawHeight": 230,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

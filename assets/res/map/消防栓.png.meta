@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "a6063ee4-da42-4c20-aed1-f2be8629553a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "消防栓": {
+      "ver": "1.0.3",
+      "uuid": "6034b190-b045-4d1c-b89b-1da061293404",
+      "rawTextureUuid": "a6063ee4-da42-4c20-aed1-f2be8629553a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 38,
+      "height": 43,
+      "rawWidth": 38,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

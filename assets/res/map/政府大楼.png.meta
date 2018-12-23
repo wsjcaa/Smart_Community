@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "09fa1438-9eb7-46bc-b9a5-5a8a6fb12583",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "政府大楼": {
+      "ver": "1.0.3",
+      "uuid": "941f8677-6342-41b7-aa52-32cbd00482ab",
+      "rawTextureUuid": "09fa1438-9eb7-46bc-b9a5-5a8a6fb12583",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 258,
+      "height": 218,
+      "rawWidth": 260,
+      "rawHeight": 220,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
